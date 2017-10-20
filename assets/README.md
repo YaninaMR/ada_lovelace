@@ -4,4 +4,4 @@ Crear una web que muestre imagenes con la propiedad float dentro de un contenedo
 #### Herramientas Tecnológicos : CSS3/HTML5
 
 
-![recursos](assets/docs/img/adalovelace.jpg)
+![recursos](img/adalovelace.jpg)
