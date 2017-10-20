@@ -1,0 +1,30 @@
+
+/*para visualizar una linea alrededor de h1 y alineado al centro*/
+h1{
+  outline: 5px solid green;
+  text-align: center;
+}
+/*definimos las propiedades para el contenedor*/
+.caja{
+  /* esta haciendo outline*/
+  /*outline: 2px solid red;*/
+  /*para ajustar el ancho del padre*/
+  /*max-width: 100%;*/
+  width: 420px;
+  /*width: 500px;*/
+  padding: 10px;
+  border:1px solid #999;
+  margin: 8px;
+  /*dar el mismo ancho a lso elementos de la caja*/
+  box-sizing: border-box;
+  float: left;
+}
+
+/*para ajustar la imagen de ada lovelace al ancho del padre contenedor caja*/
+img{
+  max-width: 100%;
+}
+/*visualizar  linea o borde alrededor del parrafo */
+p{
+  outline: 5px solid blue;
+}
